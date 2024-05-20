@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [TelegramBot](https://github.com/Btogrul/TelegramBotLinkedin)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
