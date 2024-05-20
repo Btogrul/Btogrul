@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Toghrul</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
 
+
+
+
+<p align="center">
 - 🔭 I’m currently working on [TelegramBot](https://github.com/Btogrul/TelegramBotLinkedin)
-
-
-<p align="left">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
