@@ -28,7 +28,5 @@
 
 
 
-<img src="https://github.com/Btogrul/Btogrul/blob/main/workflows/snake.yml" alt="Snake animation" />
 
-###
 
