@@ -23,7 +23,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btogrul&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-<p align="center">&nbsp;<img align="center" src="https://static.zerochan.net/Yamamoto-Genryuusai.Shigekuni.full.3815670.jpg" /></p>
 
 
 
